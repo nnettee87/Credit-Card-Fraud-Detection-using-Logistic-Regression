@@ -70,9 +70,9 @@ To improve detection of fraudulent activity:
 
 ## ❤️ Author
 
-👩🏾‍💻 Ann Moraa (aka **Blue**)  
+👩🏾‍💻 Ann Moraa  
 Data Science | Financial Risk | AI for Impact  
-[LinkedIn](https://www.linkedin.com/in/annmoraa) | [Twitter](https://twitter.com/yourhandle) | [Website](https://yourportfolio.com)
+[LinkedIn](https://www.linkedin.com/in/annmoraa) | | [Website](https://yourportfolio.com)
 
 ---
 
